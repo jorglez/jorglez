@@ -55,8 +55,8 @@
   
 <h2>My Last Finished Project</h2>
 
-# About:
-  <a href="https://github.com/jorglez/Pokemon-app" target="_blank"> Lite Dex </a> is a single page application made in React with Node + Express in the back-end, database in Postgresql + Sequelize as ORM, it uses https://pokeapi.co/ API to fetch its data.  Some of its features are:
+<h3> About Lite Dex</h3>
+<a href="https://github.com/jorglez/Pokemon-app" target="_blank"> Lite Dex </a> is a single page application made in React with Node + Express in the back-end, database in Postgresql + Sequelize as ORM, it uses https://pokeapi.co/ API to fetch its data.  Some of its features are:
 - Display pokemon general info (name and types) in cards.
 - Menu with searchbar and options to filter by type, sort in asc or desc order given their attack or A - Z / Z - A
 - Display only pokemons from the pokeapi or only those made by the user.
