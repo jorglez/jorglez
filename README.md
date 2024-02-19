@@ -15,12 +15,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+It's been a while since i updated this section. Ive been working for 2 years as a developer for Milusos. I improved my skills as a front-end developer, mainly using react and nextjs to create landing pages, online stores and admin dashboards.
 
-- 🔭 I’m currently working on an art e-commerce using javascript stack, link to the project repo: https://github.com/vgbuesaquillo/PG-Museum-App-Frontend
-
-- 🌱 I’m learning Javascript Full-Stack web development (React, Node, Express, Sequelize, Postgresql) at https://www.soyhenry.com/ 
-
-- 👯 I'm currently looking for a full-time job where i can use and improve my skills 
+- 👯 I'm currently looking for a full-time job where i can use and improve my skills even further.
 
 
 
