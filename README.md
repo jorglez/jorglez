@@ -1,76 +1,136 @@
-<div align="center" height = "200px">
-<img width="100%" height="250px" style="object-fit:contain;" src="https://cdn.pixabay.com/photo/2016/05/11/13/20/keyboard-1385706_960_720.jpg" alt="cover" />
+<div align="center">
+  <img width="100%" height="220" style="object-fit:cover; border-radius: 10px;" src="https://cdn.pixabay.com/photo/2016/05/11/13/20/keyboard-1385706_960_720.jpg" alt="Jorge Gonzalez - Header" />
+  
+  # 👋 Hi, I'm Jorge Luis Gonzalez Vargas
+  ### **Full-Stack Developer | Frontend Specialist**
+  <p align="center">
+    <strong>+6 years of experience</strong> crafting responsive, resilient web apps, high-conversion platforms, and enterprise financial CRMs.
+  </p>
+
+  <p align="center">
+    <a href="https://jorge-gonzalez-web-dev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=00f5d4" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/jorge-gonzalez-web-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:otalumi@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://jorge-gonzalez-web-dev.vercel.app/cv-en.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Resume_(EN)-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume EN" /></a>
+    <a href="https://jorge-gonzalez-web-dev.vercel.app/cv-es.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Currículum_(ES)-059669?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV ES" /></a>
+  </p>
 </div>
-
-# 💫 About Me:
-I’m a Full-Stack Developer with strong expertise in front-end development and hands-on experience building CRMs, dashboards, and business-oriented web applications. Over the past few years, I’ve helped startups and growing companies in fintech, real estate, and e-commerce bring their digital products to life.<br><br>✔ Front-End Development – Skilled in React, Next.js, and modern JavaScript/TypeScript, creating responsive, user-friendly, and efficient interfaces.<br>✔ Custom Dashboards & CRMs – Built solutions for investment tracking, payroll management, real estate valuation, and internal business processes.<br>✔ Integrations – Worked with APIs and services like Stripe for payments and Amazon Textract for data extraction from receipts.<br>✔ Back-End Collaboration – Supported back-end teams with Python and FastAPI, ensuring smooth communication between systems.<br><br>Some highlights of my past work include:<br><br>Developing the front-end of an app in collaboration with IKEA, helping customers book professionals for furniture assembly.<br><br>Creating a complete digital ecosystem for CTC (Compramos Tu Casa), including an online store with Stripe payments and a CRM for property management.<br><br>Contributing to Nawi Card, a fintech company evolving into a digital bank, by developing CRMs for financial processes and affiliates.<br><br>I enjoy working on projects that combine clean design, solid functionality, and real business value. Whether you need a landing page, a business dashboard, or a full web application, I can help you turn your idea into a scalable product.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gonzalez-web-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:otalumi@hotmail.com) </br>
-[You can also visit my Website](https://jorge-gonzalez-web-dev.vercel.app/)
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jorglez&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jorglez&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorglez&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jorglez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
-<h2>Funniest personal project</h2>
+## 💫 About Me
 
-<h3> About Lite Dex</h3>
-<a href="https://github.com/jorglez/Pokemon-app" target="_blank"> Lite Dex </a> is a single page application made in React with Node + Express in the back-end, database in Postgresql + Sequelize as ORM, it uses https://pokeapi.co/ API to fetch its data.  Some of its features are:
-- Display pokemon general info (name and types) in cards.
-- Menu with searchbar and options to filter by type, sort in asc or desc order given their attack or A - Z / Z - A
-- Display only pokemons from the pokeapi or only those made by the user.
+Results-driven **Full-Stack Developer** with **+6 years of professional experience** specializing in modern frontend architecture and scalable web solutions. Proven track record designing and delivering high-impact enterprise applications across **Fintech** (B2B embedded payments and debit card solutions), **real estate e-commerce**, and **investment dashboards**.
 
-<br/>
+- 🔭 **Currently:** Full-Stack Developer (Front-end Focus) at **Tereina** — building global enterprise B2B payment platforms backed by SAP, integrating Java microservices, Docker, and cutting-edge **Agentic & Generative AI** workflows.
+- 💡 **Core Expertise:** React, Next.js, TypeScript, Node.js, Python (FastAPI), Tailwind CSS, Shadcn/ui, Docker, RESTful APIs, and CI/CD pipelines.
+- 🎓 **Education:** B.S. in Computer Engineering from **Universidad Nacional Autónoma de México (UNAM)**.
+- 🌍 **Languages:** English (Proficient **C2 EF SET**), Spanish (Native), Japanese (Basic **N4**).
 
-<img width="50%" src="https://github.com/jorglez/Pokemon-app/blob/main/previews/home.png?raw=true" align="center"/>
+---
 
-<br/>
+## 💼 Professional Experience Highlights
 
+### 🚀 **Tereina** | *Full-Stack Developer (Front-end Focus)* `2026 – Present`
+*Enterprise fintech backed by SAP specializing in native B2B embedded payments and automated treasury workflows.*
+- Engineer scalable, secure UI solutions for global B2B payments and automated treasury platform using React, TypeScript, and modern state architectures.
+- Integrate frontend applications with Java-powered microservices backend in Docker containerized environments.
+- Leverage **Agentic AI** workflows to accelerate feature delivery, complex business logic, and code generation, while integrating **Generative AI** for rapid UI/UX prototyping.
 
-<ul>
-  <li>
-    A form to create your own pokemon.
-  </li>
-  <li>
-    If the pokemon was made by the user, a button will be shown to delete it.
-  </li>
-  <li>
-    A confirmation alert will be shown before deleting the pokemon.
-  </li>
-</ul>
+### 💳 **Nawi Card (Blumon Pay)** | *Full-Stack / Web Developer* `2024 – 2026`
+*Fintech SOFOM / Digital payment solutions evolving into digital banking.*
+- Architected and built complete CRM systems from scratch for admins, affiliate partners, and cardholders to manage card programs, disbursements, and payroll.
+- Engineered performant dashboards with React, Next.js, TypeScript, Tailwind CSS, and Shadcn/ui.
+- Developed backend endpoints with Python (FastAPI) backed by PostgreSQL & MongoDB; automated CI/CD via Jenkins, GitLab/GitHub, Docker Compose, and Kubernetes.
 
+### 🛠️ **Laboro (formerly Milusos App)** | *Full-Stack Developer* `2022 – 2024`
+*Product incubator creating multi-tenant digital ecosystems across finance, home services, and real estate.*
+- **IKEA Partnership:** Built customer-facing frontend for IKEA's furniture assembly service with **Amazon Textract** to extract purchase receipt data and automatically book verified assemblers.
+- **Compramos Tu Casa (CTC):** Created full digital real estate platform including an e-commerce property marketplace with **Stripe** payments and an algorithmic valuation CRM.
+- **IDE Fund:** Built venture capital portfolio dashboard with automated financial and quarterly report generation.
 
-<img width="45%" src="https://github.com/jorglez/Pokemon-app/blob/main/previews/form.png?raw=true" align="center"/>
+### 🌐 **Raccoon Box** | *Full-Stack Freelance Developer* `2019 – 2020`
+- Developed responsive client-acquisition portals and custom landing pages using React, Node.js, PHP, and Bootstrap.
 
-<br/>
+---
 
-<ul>
-  <li>
-    "Pokemon info" page to show more specific information (hp, base attack and defense, height and weight) displayed in a chart.
-  </li>
-  <li>
-     If the pokemon was made by the user, a button will be shown to delete it.
-  </li>
-  <li>
-    A confirmation alert will be shown before deleting the pokemon.
-  </li>
-</ul>
+## 💻 Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-<div align="center" style="display:block;">
-  <img width="40%" src="https://github.com/jorglez/Pokemon-app/blob/main/previews/info.png?raw=true" align="left"/>
-  <img width="45%" src="https://github.com/jorglez/Pokemon-app/blob/main/previews/info2.png?raw=true" align="right"/>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud, DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📜 Certifications & Languages
+
+- 🏆 **Full-Stack Web Development Bootcamp** – [HENRY](https://view.pok.tech/c/d2f290f5-899a-4ae7-8c49-a06c03f6c55e)
+- 🏆 **React & TypeScript: Complete Guide (+10 Projects)** – [Udemy](https://www.udemy.com/certificate/UC-98569473-ba33-430e-9763-689253494752/)
+- 🏆 **Modern JavaScript: The Definitive Guide (+15 Projects)** – [Udemy](https://www.udemy.com/certificate/UC-be698a67-3a2d-4b25-bbba-1a1ccd65815c/)
+- 🏆 **Full Web Development: HTML, CSS, JS, AJAX, PHP & MySQL** – [Udemy](https://www.udemy.com/certificate/UC-7225ada2-bff3-47fe-894d-bb222b8765f6/)
+- 🏆 **Master RESTful APIs with ASP.NET Core** – [Udemy](https://www.udemy.com/certificate/UC-ca792102-aa23-4e77-bd71-cf72cff8c051/)
+- 🌐 **English:** Proficient (**C2 EF SET Certified** – [Verify](https://cert.efset.org/4Hdasa))
+- 🌐 **Japanese:** Basic (**N4 Certified** – [Verify](https://testizer.com/certificate/247169688919ed695c8.pdf))
+- 🌐 **Spanish:** Native
+
+---
+
+## 🎮 Featured Personal Project
+
+### [⚡ Lite Dex (Pokemon App)](https://github.com/jorglez/Pokemon-app)
+A full-stack single-page application built with **React & Redux** on the frontend, and **Node.js, Express, PostgreSQL & Sequelize ORM** on the backend, consuming the **PokeAPI**.
+
+- 🔍 Search, dynamic type filtering, sorting by attack or name (A–Z / Z–A).
+- ✨ Custom form with client & server-side validation to create custom Pokémon.
+- 📊 Interactive stats charts (HP, attack, defense, height, weight).
+- 🗑️ CRUD operations with deletion confirmation modals.
+
+<div align="center">
+  <img width="48%" src="https://github.com/jorglez/Pokemon-app/blob/main/previews/home.png?raw=true" alt="Lite Dex Home" />
+  <img width="48%" src="https://github.com/jorglez/Pokemon-app/blob/main/previews/form.png?raw=true" alt="Lite Dex Form" />
 </div>
 
+---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorglez&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jorglez&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorglez&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=jorglez&icon=0&color=0" alt="Views" /></a>
+</p>
